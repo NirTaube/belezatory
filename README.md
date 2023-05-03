@@ -14,4 +14,10 @@ Use the data from the CSV files to create a database schema for a Postgres datab
 
 Import the CSV files into the Postgres database and verify that the data is correct.
 
-That's it! Each step is broken down into more detail in the instructions above, so don't worry if you're not familiar with some of the terminology. Just take it one step at a time and you'll be on your way to creating a crowdfunding database in no time.
+
+You can view the Code in the file: ETL_Mini_Project_Starter_Code.ipynb
+The supporting docs with SQL work can be found in resources.
+
+Thanks !
+
+BELEZA!
